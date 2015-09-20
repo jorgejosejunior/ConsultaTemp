@@ -1,0 +1,13 @@
+<?xml version='1.0'  encoding='utf-8'?>
+<CurrentWeather>
+  <Location>Fortaleza / pinto Martins , Brazil (SBFZ) 03-47S 038-32W 25M</Location>
+  <Time>Sep 20, 2015 - 02:00 AM EDT / 2015.09.20 0600 UTC</Time>
+  <Wind> from the E (100 degrees) at 13 MPH (11 KT):0</Wind>
+  <Visibility> greater than 7 mile(s):0</Visibility>
+  <SkyConditions> mostly cloudy</SkyConditions>
+  <Temperature> 78 F (26 C)</Temperature>
+  <DewPoint> 68 F (20 C)</DewPoint>
+  <RelativeHumidity> 69%</RelativeHumidity>
+  <Pressure> 29.94 in. Hg (1014 hPa)</Pressure>
+  <Status>Success</Status>
+</CurrentWeather>
